@@ -1,0 +1,10 @@
+{
+	"name": "website",
+	"license": "GPLv3",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"sys-nodehttp": "^1.7.0"
+	}
+}

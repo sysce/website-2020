@@ -1,0 +1,9 @@
+discord:
+    token: >-
+        YOUR-TOKEN
+invite:
+    guild: '419123358698045453'
+    duration: 12h
+    cache:
+        - 1618621081762
+        - hjaqS84AXF
